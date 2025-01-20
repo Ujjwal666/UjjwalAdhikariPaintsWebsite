@@ -1,0 +1,40 @@
+.FeaturesTile {
+    background-color: #5fa8d3;
+    padding: 10px;
+    border-radius: 20px;
+    max-width: 250px;
+    margin-bottom: 20px;
+}
+
+.FeaturesTile img {
+    max-width: 150px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.FeaturesTile h2 {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    color: white;
+}
+
+.FeaturesTile p {
+    font-size: 17px;
+    margin-bottom: 20px;
+    color: darkslategray;
+    text-decoration: none;
+}
+
+.FeaturesTile button {
+
+    background-color: #1f7a8c;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    height: 35px;
+    font-size: 15px;
+    font-weight: 600;
+    color: white;
+    position: relative;
+}

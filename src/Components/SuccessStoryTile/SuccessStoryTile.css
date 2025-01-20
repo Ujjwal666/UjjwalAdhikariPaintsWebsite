@@ -1,0 +1,35 @@
+.SuccessStoryTile {
+    text-align: left;
+    background-color: #52b69a;
+    padding: 20px;
+    max-width: 45%;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.imageNameUniversity {
+    display: flex;
+    justify-content: left;
+    text-align: left;
+    margin-bottom: 10px;
+    align-items: center;
+}
+
+.imageNameUniversity img {
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.nameUniversity h2 {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.nameUniversity p {
+    font-size: 15px;
+}
+
+.description p {
+    font-size: 17px;
+}

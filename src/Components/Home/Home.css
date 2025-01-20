@@ -1,0 +1,144 @@
+.Home {
+    align-items: center;
+    background-color: #CAF0F8;
+    height: 90vh;
+    max-width: 100%;
+    text-align: center;
+}
+
+.main{
+    padding-top: 15vh;
+}
+
+.main h1{
+    font-size: 4vw;
+    font-weight: 600;
+}
+
+.main p{
+    font-size: 1.5vw;
+    font-weight: 300;
+    color: #03045E;
+}
+
+.homeButtons {
+    margin-top: 20px;
+}
+
+.homeButtons button {
+    background-color: #2a6f97;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    height: 40px;
+    font-size: 17px;
+    font-weight: 700;
+    color: white;
+}
+
+.homeButtons #first {
+    margin-right: 20px;
+}
+
+.homeImage {
+    position: relative;
+}
+
+.homeImage img {
+    max-height: 120px;
+    margin-top: 30vh;
+}
+
+.startJourney {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    max-width: 100%;
+    padding-left: 5vw;
+    padding-right: 5vw;
+    padding-top: 50px;
+}
+
+.startJourney .leftPart {
+    justify-items: flex-start;
+}
+
+.leftPart h2 {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.leftPart p {
+    font-size: 20px;
+}
+
+.leftPart button {
+    margin-top: 20px;
+    background-color: #ff6b35;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    height: 40px;
+    font-size: 17px;
+    font-weight: 700;
+    color: white;
+}
+
+.rightPart img {
+    max-height: 200px;
+}
+
+.features {
+    margin-top: 20px;
+    background-color: #CAF0F8;
+    padding: 20px;
+    border-radius: 20px;
+    margin-left: 5vw;
+    margin-right: 5vw;
+}
+
+.features h2 {
+    font-size: 30px;
+    font-weight: 800;
+    margin-top: 10px;
+}
+
+.features p {
+    font-size: 20px;
+}
+
+.featuresTiles {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.successStories {
+    margin-top: 40px;
+    margin-left: 5vw;
+    margin-right: 5vw;
+}
+
+.successStories h2 {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.successStories p {
+    font-size: 20px;
+}
+
+.successStoryTile {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.footer {
+    margin-top: 20px;
+    background-color: lightslategrey;
+    padding: 10px;
+    max-width: 100%;
+}
